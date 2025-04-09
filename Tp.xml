@@ -1,0 +1,25 @@
+exo 1
+<library>
+  <book year="1996">
+    <title>I, Robot</title>
+    <author nationality="French">Isaac Asimov</author>
+  </book>
+  <book year="2000">
+    <title>Robotics and AI</title>
+    <author nationality="American">John Doe</author>
+  </book>
+</library>
+
+
+exo 2
+<university>
+  <department name="Computer Science">
+    <module title="Semantic Web">
+      <resp-course>Dr. Smith</resp-course>
+      <resp-TD>Tintin</resp-TD>
+    </module>
+  </department>
+  <teacher id="ens2">
+    <name>John Snow</name>
+  </teacher>
+</university>
