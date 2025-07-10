@@ -1,5 +1,5 @@
 .section .multiboot2
-.align 8
+.align 8 
 .long 0xE85250D6          # magic number
 .long 0                  # architecture (0 = i386)
 .long multiboot_header_end - multiboot_header
